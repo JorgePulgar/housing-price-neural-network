@@ -1,0 +1,10 @@
+# Entorno virtual
+venv_ml/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
