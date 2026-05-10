@@ -1,6 +1,6 @@
 # Housing Price Neural Network
 
-> 🌐 [Versión en español](README_ES.md)
+> 🌐 [Versión en español](README_es.md)
 
 A complete machine learning pipeline to predict housing prices using a neural network, with comparative analysis against a linear regression baseline. Built as a case study for a real estate investment firm, the project covers the full ML lifecycle: exploratory data analysis, preprocessing, model training, hyperparameter tuning, evaluation and REST API deployment.
 
